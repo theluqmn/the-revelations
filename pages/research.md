@@ -1,16 +1,12 @@
 ---
-layout: 
+layout: info
+permalink: /research
 
-title: 
-description: 
-date: 
-
-author: 
-author_url: 
-author_about: 
+title: Research
+description: Our research articles
 ---
 
-Introduction
+Welcome 
 
 ## Heading
 

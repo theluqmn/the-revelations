@@ -20,7 +20,18 @@ Another issue faced by the modern thinkers is the absence of a clear starting po
 
 ## The Vision
 
-## Leading The Way to Change
+- -> To be the leader in shaping tomorrow's leaders, entrepreneurs, and game changers.
+- -> Provide access to high-quality, human-made, relevant content for the general public - no paywalls, ads, junks.
+- -> Widen the exposure of our readers.
+- -> Unlock our readers' potential.
+
+## The Action
+
+Tackling the information crisis brings a majority of our vision in action. We post articles that are high-quality, meaningful, relevant, and thoroughly-researched with information that we have gathered and filtered from countless sources - interviews, research papers, statistics, and our own research efforts. This paves the path for us to be the leader in shaping tomorrow's leaders, entrepreneurs, and game changers. We also promise to keep our content free from advertisements, paywalls, and sponsored contents. We work for the knowledge we share. We share what is real.
+
+We carefully select the topics we share, so our readers are exposed only to the ones relevant for them. Exposure can determine
+
+To unlock the potential of our readers, 
 
 ---
 
