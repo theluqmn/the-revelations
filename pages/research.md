@@ -6,7 +6,7 @@ title: Research
 description: Our research articles
 ---
 
-Welcome 
+Welcome
 
 ## Heading
 
