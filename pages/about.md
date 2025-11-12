@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /about
 
 title: About The Revelations
 description: All about The Revelations Initiative
