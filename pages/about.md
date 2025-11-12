@@ -22,16 +22,27 @@ Another issue faced by the modern thinkers is the absence of a clear starting po
 
 - -> To be the leader in shaping tomorrow's leaders, entrepreneurs, and game changers.
 - -> Provide access to high-quality, human-made, relevant content for the general public - no paywalls, ads, junks.
-- -> Widen the exposure of our readers.
-- -> Unlock our readers' potential.
+- -> Widen your exposure.
+- -> Unlock your potential.
 
 ## The Action
 
-Tackling the information crisis brings a majority of our vision in action. We post articles that are high-quality, meaningful, relevant, and thoroughly-researched with information that we have gathered and filtered from countless sources - interviews, research papers, statistics, and our own research efforts. This paves the path for us to be the leader in shaping tomorrow's leaders, entrepreneurs, and game changers. We also promise to keep our content free from advertisements, paywalls, and sponsored contents. We work for the knowledge we share. We share what is real.
+Tackling the information crisis brings a majority of our vision in action. We post articles that are high-quality, meaningful, relevant, and thoroughly-researched with information that we have gathered and filtered from countless sources - interviews, research papers, statistics, and our own research efforts. This paves the path for us to be the leader in shaping tomorrow's leaders, entrepreneurs, and game changers. We also promise to keep our content free from advertisements, paywalls, and sponsored contents. We work for the knowledge we share. We share what is real. To build trust, The Revelations is also open-source, and anybody can contribute with the approval of the core team - if they are up to the job.
 
-We carefully select the topics we share, so our readers are exposed only to the ones relevant for them. Exposure can determine
+Exposure can give you a leading edge over your competitors, hence why we ensures The Revelations' articles cover topics that are relevant to overcoming upcoming problems and issues as a leader, entrepreneur, and game changer. The exposure we bring is beyond mere theories and strategies. You will be exposed to the challenges faced by the past and present leaders, changes that will influence your leadership in the future, as well as threats and opportunities.
 
-To unlock the potential of our readers, 
+To unlock your potential, we provide the resources you need to implement your ideas and put the knowledge you read to work by providing clear, straightforward guidelines and examples that you can follow step-by-step without getting lost. If you still get lost, worry not, the team behind The Revelations has also includes links to tutorials and useful resources that you can try.
+
+## The Revelations Initiative Timeline
+
+- **2025**
+- Q4 -> Finalise design, have 8 articles released according to our action plan.
+
+- **2026**
+- Q1 -> Conduct 2 interviews, have an article rolling out every week
+- Q2 -> Start The Revelations YouTube channel with two videos per month
+- Q3 -> Have a break for SPM
+- Q4 -> Gradually conduct a mininum of an interview per month, assemble The Revelations Partners - a group of professionals from various fields that voluntarily provide guidance on our articles, as well as assistance for our readers who wants professional inquiry.
 
 ---
 
