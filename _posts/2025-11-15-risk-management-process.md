@@ -4,6 +4,7 @@ layout: post
 title: The Risk Management Process
 category: strategies
 description: Six intuitive, natural steps for risk management.
+reading_time: 4m 40s
 date: 15th November 2025
 
 author: Luqman (theluqmn)
@@ -78,8 +79,10 @@ Now, will you implement the risk management process?
 
 Thanks for the read.
 
-## Sources
+## Dive Deeper
 
-Each The Revelations article includes links to refer resources that provided the information for the article. Captivating ones are linked directly within the article to allow you to easily learn more on the topic, but otherwise can be found below:
+This article provides several links to topics that may interest you if you desire to dive deeper, which can be found within the contents of this article. Below is a compilation of said links:
 
 My personal interview conducted on Dr David Hillson (primary source for this article), [The Risk Doctor](https://www.youtube.com/@Risk-Doctor/)'s YouTube videos titled "[What is the difference between risk and uncertainty?](https://youtu.be/008B9NZ2hVY?si=Kf3cVTxlhUffV7yv)", "[Risk and Opportunity: How can risk be good?](https://youtu.be/mEuXOtY8k9s?si=wmbZ4kj7_XYczFPJ)" and "[The Risk Management Process](https://youtu.be/BLAEuVSAlVM?si=jpZWBtH_VRCZIfFA)", [Harvard Business Review](https://www.youtube.com/@harvardbusinessreview)'s YouTube video "[A Plan Is Not a Strategy](https://youtu.be/iuYlGRnC7J8?si=tLslJo6oHJ6lNLvY)".
+
+Each The Revelations article includes links to references for the article.

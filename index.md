@@ -4,9 +4,9 @@ permalink: /
 
 title: The Revelations
 
-featured:
-featured_url:
-featured_description:
+featured: The Risk Management Process
+featured_url: https://revelations.my/strategies/2025/11/21/risk-management-process
+featured_description: Six intuitive, natural steps for risk management.
 ---
 
 ## Guiding Leaders and Game Changers
