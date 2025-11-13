@@ -2,7 +2,8 @@
 layout: post
 
 title: The Risk Management Process
-description: 
+category: strategies
+description: Six intuitive, natural steps for risk management.
 date: 15th November 2025
 
 author: Luqman (theluqmn)
@@ -22,11 +23,15 @@ Uncertainties is simply things we are not too certain of, but has little to no i
 
 Context matters most when deciding an uncertainty as negligible or a risk. For a trader, high-latency internet is a risk which may result in losses, as the trader may lack the time to make trades according to market data. Meanwhile for the average consumer, high-latency internet means their YouTube video takes a second or two longer to load - a minor inconvenience.
 
-All risks are uncertainties, however, not all uncertainties are risks.
+[All risks are uncertainties, but not all uncertainties are risks](https://youtu.be/008B9NZ2hVY?si=Kf3cVTxlhUffV7yv).
+
+## Not all uncertainties are bad
+
+There are uncertain things in the future, that matters to your objectives in a positive way - [opportunities](https://youtu.be/mEuXOtY8k9s?si=wmbZ4kj7_XYczFPJ). These opportunities, if located and exploited, will aid in achieveing your objectives. As an example, for a corporation, having low interest rates in the upcoming months makes investors more willing to invest, therefore it is an opportunity.
 
 ## The risk management process
 
-The reason humans have not gone extinct (yet) is because we conduct risk management (the uncertainty of being attacked by a predator and low visibility made us avoid going out at night). The risk management profession and techniques however, were only formalised around the 1980s. These techniques can be simplified into the risk management process - consisting of six steps, that are intuitive, natural steps that you would be doing anyways.
+The reason humans have not gone extinct (yet) is because we conduct risk management (the uncertainty of being attacked by a predator and low visibility made us avoid going out at night). The risk management profession and techniques however, were only formalised around the 1980s. These techniques can be simplified into [the risk management process](https://youtu.be/BLAEuVSAlVM?si=jpZWBtH_VRCZIfFA) - consisting of six steps, that are intuitive, natural steps that you would be doing anyways.
 
 ### 1- Set objectives
 
@@ -42,7 +47,7 @@ Once risks have been identified, filter it according to its importance and poten
 
 ### 4- Execute a strategy
 
-Think about the processes, changes, actions and decisions that you can take to mitigate the potential risks, and maximise the opportunities that you have identified to create a strategy. These strategies should be straightforward and a no-brainer.
+Think about the processes, changes, actions and decisions that you can take to mitigate the potential risks, and maximise the opportunities that you have identified to create a strategy. Remember, [a plan is not a strategy](https://youtu.be/iuYlGRnC7J8?si=tLslJo6oHJ6lNLvY). These strategies should be straightforward and a no-brainer.
 
 Execute the strategy and monitor your progress.
 
@@ -72,3 +77,9 @@ In a nutshell, apply risk management to make better decisions. It is a great too
 Now, will you implement the risk management process?
 
 Thanks for the read.
+
+## Sources
+
+Each The Revelations article includes links to refer resources that provided the information for the article. Captivating ones are linked directly within the article to allow you to easily learn more on the topic, but otherwise can be found below:
+
+My personal interview conducted on Dr David Hillson (primary source for this article), [The Risk Doctor](https://www.youtube.com/@Risk-Doctor/)'s YouTube videos titled "[What is the difference between risk and uncertainty?](https://youtu.be/008B9NZ2hVY?si=Kf3cVTxlhUffV7yv)", "[Risk and Opportunity: How can risk be good?](https://youtu.be/mEuXOtY8k9s?si=wmbZ4kj7_XYczFPJ)" and "[The Risk Management Process](https://youtu.be/BLAEuVSAlVM?si=jpZWBtH_VRCZIfFA)", [Harvard Business Review](https://www.youtube.com/@harvardbusinessreview)'s YouTube video "[A Plan Is Not a Strategy](https://youtu.be/iuYlGRnC7J8?si=tLslJo6oHJ6lNLvY)".
